@@ -1,0 +1,7 @@
+{
+  "name": "greenkeeping",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
